@@ -1,65 +1,118 @@
 # 👋 Hi, I'm Naveen Kumar Madanu  
 
-💻 **Software Developer** with 3+ years of experience in **C#, ASP.NET Core, SQL, and Web Development**.  
-Passionate about building **scalable web applications**, designing **REST APIs**, and contributing to **open-source projects**.  
+💻 Full-Stack Software Developer with experience building scalable web applications, APIs, and enterprise platforms using .NET technologies. Passionate about responsive UI development, backend engineering, cloud-based applications, and modern software development practices.
 
 ---
 
-## 🚀 About Me  
-- 🎓 Master’s in **Software Engineering** – De Montfort University, UK  
-- 🎓 Bachelor’s in **Computer Science** – Gokaraju Rangaraju Institute of Engineering and Technology, India  
-- 🌍 Based in **Leicester, England, UK**  
-- 🔭 Currently working on **.NET projects, web apps, and automation utilities**  
-- 🤝 Open to collaborations on **C#, ASP.NET, Blazor, and API development**  
+# 🚀 About Me  
+
+- 🎓 MSc Software Engineering — De Montfort University, UK  
+- 🎓 Bachelor of Technology in Computer Science — Gokaraju Rangaraju Institute of Engineering & Technology, India  
+- 🌍 Based in Leicester, England, United Kingdom  
+- 💼 Experience in Full-Stack Development, Web Applications, APIs, and CMS Platforms  
+- 🔭 Currently focused on .NET applications, frontend engineering, and scalable business systems  
+- 🤝 Open to opportunities in Software Engineering, Full-Stack Development, and Cloud Technologies  
 
 ---
 
-## 🛠️ Tech Stack  
+# 💼 Experience  
 
-**Languages & Frameworks**  
-- C#, ASP.NET Core, .NET Core, Java, SQL, JavaScript, jQuery, HTML, CSS  
+## Technology Engineering Simulation — Lloyds Banking Group (Forage)  
+📍 Remote | May 2026 – Present  
 
-**Databases**  
-- Microsoft SQL Server, MySQL  
-
-**APIs & Services**  
-- RESTful APIs, Web Development, OOP Design  
-
-**Tools & Version Control**  
-- Git, GitHub, GitLab, Visual Studio  
-
-**Methodologies**  
-- Agile (Scrum, Kanban), Waterfall  
+- Improved the user experience of an online mortgage calculator based on customer feedback and usability requirements  
+- Applied analytical thinking, software testing, and responsive web design concepts  
+- Conducted usability testing, gathered feedback, and proposed UI improvement ideas  
+- Strengthened skills in technical planning, communication, frontend development, and deployment workflows  
 
 ---
 
-## 📌 Featured Projects  
+## Front-End Engineering Simulation — Skyscanner (Forage)  
+📍 Remote | Apr 2026 – May 2026  
 
-🔹 **GymRat** – Web-based gym management system built with ASP.NET Core, SQL Server, and jQuery, featuring **membership tracking and reporting**.  
+- Built a responsive React application using Skyscanner Backpack design components  
+- Implemented reusable UI components, calendar functionality, and responsive layouts using SCSS  
+- Worked with JavaScript, React.js, npm packages, debugging workflows, and component-based development  
+- Resolved dependency issues and published the project to GitHub  
 
-🔹 **SocialNetworkBlazor** – Developed **messaging and API services** with .NET Core and REST APIs.  
-
-🔹 **Automation Utilities** – Contributed **test scripts and bug fixes** to GitHub projects, improving QA reliability.  
-
----
-
-## 📜 Certifications  
-
-- **Foundations of Coding Full-Stack** – Microsoft *(Dec 2024)*  
-- **React.js** – LinkedIn *(Dec 2024)*  
-- **Git** – LinkedIn *(Nov 2024)*  
-- **Node.js** – LinkedIn *(Oct 2024)*  
-- **C# and .NET** – LinkedIn *(Aug 2023)*  
-- **JavaScript** – LinkedIn *(Aug 2023)*  
+GitHub Repository:  
+https://github.com/naveen9912/skyscanner-backpack-react-app  
 
 ---
 
-## 📫 Get in Touch  
+## Full Stack Developer — Zenco Legal  
+📍 Leicester, United Kingdom | Jan 2025 – Apr 2025  
 
-📧 Email: **naveennavi1456@gmail.com**  
-🌐 LinkedIn: [linkedin.com/in/naveen0903](https://linkedin.com/in/naveen0903)  
-💻 GitHub: [github.com/naveen9912](https://github.com/naveen9912)  
+- Developed responsive web applications using Blazor Server and Blazor WebAssembly in .NET Core  
+- Built reusable Razor components, dynamic forms, and validation workflows using C#  
+- Integrated APIs, managed application state, and implemented role-based access features  
+- Worked on frontend performance improvements, responsive UI design, and scalable business workflows  
+- Supported internal users with troubleshooting, debugging, deployment, and IT support tasks  
 
 ---
 
-⭐️ *Always open to collaborations on exciting projects in .NET, Web Development, and Software Engineering!*  
+## Programming Analyst — Cognizant  
+📍 Hyderabad, India | Mar 2022 – Jan 2023  
+
+- Developed and maintained enterprise Sitecore applications using .NET and ASP.NET MVC  
+- Built custom CMS components and integrated third-party APIs and backend services  
+- Worked on Web API services, debugging, deployment, testing, and production support  
+- Collaborated within Agile development teams to deliver scalable web solutions  
+
+---
+
+## Programmer Analyst Trainee — Cognizant  
+📍 Hyderabad, India | Mar 2021 – Feb 2022  
+
+- Assisted in developing and maintaining Sitecore and ASP.NET applications  
+- Supported API integrations, testing, debugging, deployment, and issue resolution  
+- Worked closely with senior developers on MVC and Web API services  
+
+---
+
+# 🛠️ Technical Skills  
+
+## Languages  
+C#, JavaScript, SQL, HTML5, CSS3, Python  
+
+## Frameworks & Technologies  
+.NET Core, ASP.NET Core, Blazor Server, Blazor WebAssembly, ASP.NET MVC, REST APIs, Entity Framework Core, Sitecore XP, React.js  
+
+## Databases  
+SQL Server, MySQL  
+
+## Cloud & DevOps  
+Azure Concepts, CI/CD Concepts, Deployment Workflows, GitHub Actions  
+
+## Tools  
+Git, GitHub, GitLab, Visual Studio, VS Code, Postman  
+
+## Engineering Practices  
+Agile Development, Responsive Design, Debugging, Testing, API Integration, Scalable Applications  
+
+---
+
+# 📜 Certifications  
+
+- Foundations of Coding Full-Stack — Microsoft  
+- React.js — LinkedIn Learning  
+- Git — LinkedIn Learning  
+- Node.js — LinkedIn Learning  
+- C# and .NET — LinkedIn Learning  
+- JavaScript — LinkedIn Learning  
+
+---
+
+# 📫 Contact Me  
+
+📧 Email: naveennavi1456@gmail.com  
+
+🌐 LinkedIn:  
+https://linkedin.com/in/naveen0903  
+
+💻 GitHub:  
+https://github.com/naveen9912  
+
+---
+
+⭐ Always interested in building scalable software, modern web applications, and impactful digital solutions.
