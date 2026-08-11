@@ -123,7 +123,7 @@ Agile Development, Responsive Design, Unit Testing (xUnit), Debugging, API Integ
 
 # 📫 Contact Me  
 
-📧 Email: naveennavi1456@gmail.com  
+📧 Email: contact@naveenkumarmadanu.com 
 
 🌐 LinkedIn:  
 https://linkedin.com/in/naveen0903  
